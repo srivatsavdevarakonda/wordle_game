@@ -53,7 +53,7 @@ cd wordle_game
 
 **Contributors**
 
-D SRIVATSAV (srivatsavdevarakonda)
+D SRIVATSAV (@srivatsavdevarakonda)
 
 **License**
 
