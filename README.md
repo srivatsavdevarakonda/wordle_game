@@ -89,7 +89,7 @@ streamlit run wordle.py
 
 ---
 
-## Contributors
+## Author
 👤 **D SRIVATSAV**  
 GitHub: [@srivatsavdevarakonda](https://github.com/srivatsavdevarakonda)
 
